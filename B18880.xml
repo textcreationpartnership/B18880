@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Positions supported by their reasons explaining the Office of Land-Credit,</title>
+            <author>Land Bank (London, England)</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18880</idno><idno type="EEBO-CITATION">99891010</idno>
+  <idno type="VID">202014</idno>
+  <idno type="EEBO-PROQUEST">2240918011</idno>
+  
+            <idno type="OCLC"> 13739211</idno>
+            <idno type="STC">Wing C1879aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 8223.e.7.[7]</idno>
+            <idno type="STC">ESTC R8894</idno>
+            <idno type="PROQUEST">ocm99891010</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891010e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202014)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C30:2[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Positions supported by their reasons explaining the Office of Land-Credit,</title>
+                  <author>Land Bank (London, England)</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Agricultural credit --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land banks --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:202014:1"/>
+            <head>POSITIONS SUPPORTED BY THEIR REASONS EXPLAINING THE <hi>Office of Land-Credit.</hi>
+            </head>
+            <p n="1">1. THat the Constitution, of the Office of Land Credit, makes its Fund and Credit Safer, than any Bank, or Gold-Smith can theirs.</p>
+            <p>Because (besides the many Checks therein provided) the Profit and the Power are divided; so that, where it may be the Interest to be Deceitful, the Power is wanting, and where the Power is lodg'd, there wants Temptation; for no Gain can be made by Deceit.</p>
+            <p n="2">2. That in this Office the Land is Credited, and gives the Value; the Lords Visitors and Comptrollers preserve the Integrity, and give Reputation, by their Faithful and Prudent Inspection, and Execution of their Trust; and the Undertakers only Contribute their Contrivance, and constant Advice.</p>
+            <p>Because the Land is bound to buy up all the Credit; and the Visitors and Comptrollers, were they capable of being Corrupted, yet (having no Contin<g ref="char:EOLhyphen"/>gent Profit to tempt them) cannot but Maintain plain honest dealing with the Nation; and the Undertakers (who only lye under the Temptation of being Corrupted) have no trust nor Power to defraud the Nation.</p>
+            <p n="3">3. That Anticipating a hundred Years Rent (being well Secur'd) is no Im<g ref="char:EOLhyphen"/>possible thing.</p>
+            <p>Because the Value of the Land setled is (as is a large Fine) an ample Security for the payment of the Rent: And there is therefore no more doubt, that the Rent so Secured, will be paid for One hundred and fifty Years to come, than that it hath been well paid for One hundred and fifty Years last past; and because (where no Interest is required, nor the Principal sooner, than in a hundred Years, as in this Office of Land-Credit) an hundred Years Rent, can be as well advanc'd as fifteen.</p>
+            <p n="4">4. That the Length of time, before some of these Bills, will be called in, to be cancell'd, can be no injury nor hindrance to any person whatsoever, in any of their dealings.</p>
+            <p>Because, if any have occasion to lay them out in Payments, or for Commo<g ref="char:EOLhyphen"/>dities, they may Immediately be Accommodated, and need not keep them one
+<pb n="2" facs="tcp:202014:2"/>Day by them, or be any longer without the Use or Benefit of them, than if they were other Money.</p>
+            <p n="5">5. That the Payments cannot be Inconvenient, either to the Office or the Proprietor.</p>
+            <p>Because the whole Sum is not to be paid at once, but by such small parcels, at several times, as the Estates can easily bear, and the Office can without trouble or danger, as easily receive.</p>
+            <p n="6">6. That Land, especially in <hi>England,</hi> is the best of Funds, upon which to raise an Unquestionable Credit in Banks.</p>
+            <p>Because Property is here Sacred, and Land only cannot be Imbezel'd or Tran<g ref="char:EOLhyphen"/>sported away, nor Perish, as all other things may; and therefore 'tis the strong<g ref="char:EOLhyphen"/>est Security under Heaven, and a better Fund, than any other thing whatso<g ref="char:EOLhyphen"/>ever now used for Funds: And because that, which commands Money, as Land by daily experience is known to do, ought, with as much reason to command all other Commodities; especially since the Land can be effectually Accomodated by this Office, with the Qualifications of Money.</p>
+            <p n="7">7. That Bills of Credit are better Secured upon such Land-Fund, than on any other Fund, whether Money, Goods, or Reputation.</p>
+            <p>For the Reasons before.</p>
+            <p n="8">8. That Bills so Secured by Land, cannot reasonably be Refused to be Cur<g ref="char:EOLhyphen"/>rent in payment, during the whole Time, till call'd in.</p>
+            <p>Because if so Current, 'twill be Impossible any can lose by receiving them and why then should they not be Current? And because of the certain known Fund, Land Estates being engaged to call them all back to be destroy'd, by Yearly payments; so that, at or before the end of the Term Limited, all these Bills will be satisfyed, and cancell'd, till when the said Estates can never be Discharged from this Incumbrance, and in the mean time, the said Bills are above doubly Secur'd, and cannot be unfaithfully Manag'd: And further because we daily see, that common Bills of Credit, are in all Trading parts, current payments for a Day, a Week, two Months or Longer, amongst all that presume, the drawer of the Bills is able and willing to pay them at the time; So that if any Person's Life or Reputation, or any durable pledge, could give an assurance of being able and willing to discharge the Bills, charged upon it, within the time of One hundred Years or more, they must for the same Reasons be Current, so long with all that know it; Now this Office is unquestionably able, within the time. This Office cannot avoid being willing: And both may be easily pub<g ref="char:EOLhyphen"/>lickly known from the beginning.</p>
+            <p n="9">9. That these Bills are as truely Money, as that made of Gold or Silver, and Virtually are Gold and Silver Money; but the Misfortune is, that the com<g ref="char:EOLhyphen"/>mon People have not yet learnt so much; tho' no doubt but the Example of the Wise, and the constant Practise of the Office, will easily lead them to the Under<g ref="char:EOLhyphen"/>standing and use of so great an advantage.</p>
+            <p>Because they have all the Properties of Metaline Money, as Value, Dura<g ref="char:EOLhyphen"/>bility, Divisibility, Portability, and certain Denomination; and perform all the uses of Gold and Silver Money, to which they are better Accomodated, by saving loss of time in telling, and as they are more Portable, and less Lyable to Robbery; being easily lodged, and conceal'd and easily discovered if Rob'd. And the Example of Gamsters, and of all that have plaid, do further Confirm the same; for whilst the Guineas are safe kept in the Box, tho' for a hundred Years, for the Reason is the same from first to last, the Counters are as good Shillings, as the best Silver Shillings Coin'd; even so these Bills of Credit are as good Money for the Value they are Issued, as the best Gold and Silver Mo<g ref="char:EOLhyphen"/>ney
+<pb n="3" facs="tcp:202014:2"/>of like Value, so long as there is Rent enough Secur'd by Land, ingaged to buy them all back again, the Rent answering the Guineas, and the Land the Box.</p>
+            <p n="10">10. That there is therefore no need to have Interest running upon these Bills.</p>
+            <p>Because they are (as Money is) living Pledges, and may be past away Cur<g ref="char:EOLhyphen"/>rently from Man, to Man, at any time.</p>
+            <p n="11">11. That a Considering Person never changed a Bill into Money, but where the Security of it was generally Suspected, or where the Sum contain'd was greater, than his smaller occasions, requir'd.</p>
+            <p>Because, where there are not these exceptions, Bills are in all respects more safe and useful, than Metaline Money, and more acceptable when known.</p>
+            <p n="12">12 That (most of the Bills of this Office being prepared for small Summs, and being, as aforesaid, in all respects as good, and in some better than Common Money) there is no more reason, from the Nature of the thing, for the Office to keep Money to change them, than for the <hi>Tower</hi> to keep Silver to change the Gold Coin'd there. Nor is it more Reasonable to make a Question, where is the Money to circulate the Bills of this Office; than (if there were a Bank of Guineas) to question, Where is the Fund? Where is the Silver to circulate the Gold? The one being full as Improper, as the other.</p>
+            <p>Because most Persons, especially Chapmen, can, and will change the great Bills, into small, and the small Bills also, assoon as they know the worth of them, into Money. And because the Bills of this Office probably will, and reasonably ought, as much to circulate upon the Fund of Land, as the Bills of the Guinea-Bank circulatas upon the Fund of the Guinees, the Land being the safer Fund of the two, and the Richer.</p>
+            <p n="13">13. That there is such Provision made in the Office of Land Credit, that 'tis Morally Impossible the Bills of Credit should suffer from any loss by bad Titles; or the People by Counterfeit Bills.</p>
+            <p>Because the joint Stock of Trade, is very Sufficient to repair such loss out of its Profits; tho' every fifth Title should prove bad; and yet 'tis Improbable, the Office should pass one bad Title in an hundred, since in common Mortgages there is not one Mortgagee in fifty deceiv'd, tho' one Title in twenty may possi<g ref="char:EOLhyphen"/>bly be bad. And tho' few things can be so contrived, as not to be Counter<g ref="char:EOLhyphen"/>feited; Yet these Bills so framed, as 'tis next to an Impossibility to be Counter<g ref="char:EOLhyphen"/>feited: But in case they should, there is such Provision made for an easy disco<g ref="char:EOLhyphen"/>very, that none needs be deceived, unless they please.</p>
+            <p n="14">14. That in a Money Bank, Money is the Fund, or Pledge, and Credit is thereupon to be issued, as the Money, and makes the payments as effectually as the Money could, and here Money is absolutely necessary to remain and lye for the Pledge; or else the Credit can have no real Value.</p>
+            <p>For the Money is Lodg'd, and the Credit Received, not because Money can be had from the Bank at Pleasure, for that is rarely if ever practised, being un<g ref="char:EOLhyphen"/>necessary, but because they have a confidence, the Money is safely Lodg'd there; and because they can when they will have Money else where, or what they will, or what Money can procure, for that Credit, for where Credit is Current, 'tis turned at least ten times in to Goods for once into Money.</p>
+            <p n="15">15. That Banks, that lay the Foundation of their Credit on Money, ought to have no Credit, when they have no Money; but Banks, founded on Land, and under a good Management, can never by folly or fraud weaken their Cre<g ref="char:EOLhyphen"/>dit, nor sink their Land Fund.</p>
+            <p>Because the Credit of Money Banks has no Foundation, when the Money is gone: But it is quite otherwise in Land Banks; for there is yet no means dis<g ref="char:EOLhyphen"/>covered,
+<pb n="4" facs="tcp:202014:3"/>to Transport Land beyond Seas, which will still lye just where it did before, to make good the Credit.</p>
+            <p n="16">16. That most Men confound the <hi>Idea</hi> of Land Banks and Money Banks.</p>
+            <p>Because they have not the true Notion of either. For they fancy Money is brought into a Bank, to be fetcht thence at pleasure; when indeed 'tis Lodg'd there as a secure Pledge, and Fund for the Credit abroad, and never needs to be remov'd, but when the owners have a cause to fear it be will Imbezel'd or Robb'd for they have the same use of it, while 'tis safely Lodg'd, or thought to be so, as if it were in their Possession.</p>
+            <p n="17">17. That a Land Bank or this Office differs not from a Money Bank, save in Possessing a much better Fund.</p>
+            <p>Because Credit is passed upon Land in the same manner, as 'tis upon Money, and Land is much less lyable, to be Imbezel'd than Money.</p>
+            <p n="18">18. That in both Banks there is no absolute necessity for Money to help to circulate the Bills.</p>
+            <p>Because in both the Circulation is perform'd by the Bills themselvos, made good by their proper Funds, and the Bills truly become Money, and perform its Office as well; and the Land and the Money become the Pledge.</p>
+            <p n="19">19. That Money, by being made the Fund in the Money Bank, ceaseth to be Money, and becomes the Pledge of the Circulating Bills, and the Bills by being thus Qualified are actually transformed into Money.</p>
+            <p>Because the Money is supposed to be in safe Custody in the Bank, as a Mort<g ref="char:EOLhyphen"/>gage or Pledge to make the Bills Circulating upon it, Valuable.</p>
+            <p n="20">20. That in this Office of Land Credit, Land is the Pledge, as Money is in the Money Bank; and the Credit of the Land is a more secure Payment, than the Credit of the money Bank, and therefore is better Money.</p>
+            <p>Because there cannot be in Money Banks the same assurance that the Fund is kept so entire, and the cheif use of Money is to make payments, so that what<g ref="char:EOLhyphen"/>ever can make payments is Money.</p>
+            <p n="21">21. That the Lands, Goods, and Industry of this Nation, are now Sub<g ref="char:EOLhyphen"/>jected to the Slavery of foreign Commodities, Gold and Silver.</p>
+            <p>Because they are made the sole Measure of all that is Valuable in <hi>England,</hi> whereas they ought to be made use of onely, as an Inferior Species to Land Cre<g ref="char:EOLhyphen"/>dit, as Silver is to Gold.</p>
+            <p n="22">22. That, if the Government and the Nation please, the Lands of <hi>England</hi> may be made in all respects as good, and in many a better Measure of Trade, than the said foreign Commodities to the great Improvment of the Land, the mighty advantage of Land Proprietors: And the no less Benefit to the Govern<g ref="char:EOLhyphen"/>ment and the Nation.</p>
+            <p>Because we have the Materials within our Selves, and we can always have, as much as we need, and no more: And plenty of any Adequate Measure of Trade, as this Credit is, must Infallibly produce all the Forementioned ad<g ref="char:EOLhyphen"/>vantages.</p>
+            <p n="23">23. That by the help of this Office, Land is made doubly useful.</p>
+            <p>Because the owners can Cultivate and Manure it, and at the same time Trade with it.</p>
+            <p n="24">24. That all things of Value may be made for a shift a Measure of Trade, as <hi>Sugar, Tobacco,</hi> &amp;c. But some are much more Convenient for the purpose, than others; and Land as Convenient, if not more, than any other.</p>
+            <p>Because Value, measures Value, and makes a Trade; but nothing equals Gold and Silver in all its Qualifications, for this use, but Land Credit, which not only equals, but far exceeds it.</p>
+            <pb n="5" facs="tcp:202014:3"/>
+            <p n="25">25. That it is, and always was, the true Interest of the Landed Gentlemen, to promote and incourage this Office, more than any other human affair, and, beside this reason for it, there is now an absolute necessity.</p>
+            <p>Because there is little Money current, if any left; all other Credit is justly clouded; necessities for Money are great, and nothing can Prosper without it, or some sound Credit, which only Land can afford; and because there never was a General Proposal, offer'd to Land and Money'd-Men, more practicable, Profitable, and more safe against loss, and Consequently more Encouraging to both.</p>
+            <p n="26">26. That (there being at present very little Money in the Nation, in com<g ref="char:EOLhyphen"/>parison of what there was some few Years since) most Men that have Estates, must have them either in Land, Goods, or uncertain common Credit: Now all those Estates can be good for little or nothing, without Money or secure Credit: Money cannot be expected in many Years sufficient to answer all Oc<g ref="char:EOLhyphen"/>casions, but secure Credit may be had, if the Nation be happy enough to en<g ref="char:EOLhyphen"/>courage the Office of Land-Credit, for which encouragement there is as much and more reason, as there is for Ten thousand Usurers to take Mortgages for their Money, which can be neither so easily Insur'd, Transfer'd, or Subdi<g ref="char:EOLhyphen"/>vided into small Sums, nor in any respect so Useful or Beneficial as these Bills.</p>
+            <p>Because there is nothing besides to make Estates, nor no other known good Credit left, but that issuing out of this Office of Land Credit.</p>
+            <p>
+               <hi>Secondly.</hi> Because, when the measure of Trade is wanting, all Negotiati<g ref="char:EOLhyphen"/>ons cease.</p>
+            <p>
+               <hi>Lastly.</hi> Because the Nation cannot recover in many Years out of Foreign<g ref="char:EOLhyphen"/>ers Debts, and also be able to supply it self with a Reasonable quantity of Money.</p>
+            <p n="27">27. That, as to the success of this design, none can reasonably question it.</p>
+            <p>Because they allow every Day the same reasons in other matters, which reasons more strongly justifie the Probability of success in this design.</p>
+            <p n="28">28. That this Office is so far from Superseding the use of Gold and Silver Money, that it must necessarily increase them.</p>
+            <p>Because the great Stock of Credit, raised by this Office, must necessarily In<g ref="char:EOLhyphen"/>crease for Exportation all our native Product and our Manufactures, which will not only save our Gold and Silver from being Transported, but in time will cause a Plentiful Importation of the said Metals, if our Trade be pru<g ref="char:EOLhyphen"/>dently manag'd; for, tho' payments of five pounds and upwards should be all made in the Credit of this Office, yet the Occasions for smaller payments will thereby be so greatly multiplied, that all the present Gold and Silver will scarce suffice to discharge half of them.</p>
+            <p n="29">29. That the want of Money or current Credit, is so great a hindrance to Trade, and a grievance to a Nation, that even false Money, clipt Money, raising the Value of Money, and weak Credit, is better than having too little, or no Money or Credit.</p>
+            <p>Because when there is no Money, all Hands are Idle, and Poverty comes upon the Country like an Armed Man: But false and clipt Money raising the Value of Money, and weak Credit, still keeps many Hands at Work; tho' all cann't or will not.</p>
+            <p n="30">30. That all prudent Persons will certainly accept this Credit in payment.</p>
+            <p>Because they must thereby increase their Trade, and can suffer no loss by accepting it.</p>
+            <div type="summary">
+               <pb n="6" facs="tcp:202014:4"/>
+               <head>An Abstract of the Premises.</head>
+               <list>
+                  <item>THat the Management of this Office is Incapable of deceiving the Nation. <hi>N.</hi> 1. and 2.</item>
+                  <item>The hundred Years Possible, and not Injurious to any by the length of time. <hi>N.</hi> 3.4.</item>
+                  <item>The easiness of Payments Facilitates the Possibility. <hi>N.</hi> 5.</item>
+                  <item>Land is the best of Funds for Banks. <hi>N.</hi> 6.</item>
+                  <item>Bills upon Land, are the best of Bills. <hi>N.</hi> 7.</item>
+                  <item>Bills upon Land ought in reason to be accepted by all. <hi>N.</hi> 8.</item>
+                  <item>These Bills are both Really and Virtually Money, and therefore ought to be Current. <hi>N.</hi> 9.</item>
+                  <item>No reason, therefore Interest should be allowed upon them. <hi>N.</hi> 10.</item>
+                  <item>A Demonstration of the Use and Value of good Bill. <hi>N.</hi> 11.</item>
+                  <item>These Bills, fitted for this common use, need no Money to circulate them. <hi>N.</hi> 12.</item>
+                  <item>This Office defended against bad Titles and the People from Injury by false Bills <hi>N.</hi> 13.</item>
+                  <item>Money absolutely Necessary in a Money Bank, and for the same reason totally Superfluous in Land Banks. <hi>N.</hi> 14.</item>
+                  <item>What a Money Bank is. <hi>N.</hi> 15.</item>
+                  <item>Few know how to distinguish betwixt Land and Money-Banks. <hi>N.</hi> 16.</item>
+                  <item>No difference material in the said Banks, except that the Land Bank is the safer. <hi>N.</hi> 17.</item>
+                  <item>Money truly not necessary to circulate in either. <hi>N.</hi> 18.</item>
+                  <item>In Money Banks, Money is Transformed into a Pledge, and ceaseth to be Money, and the Bills become Money. <hi>N.</hi> 19.</item>
+                  <item>In Land Banks, Land is the Pledge, and the Bills the Money, and the safer of the two. <hi>N.</hi> 20.</item>
+                  <item>That <hi>England</hi> and all its Wealth, and Trade is in <hi>Bondage</hi> to Money. <hi>N.</hi> 21.</item>
+                  <item>That if the Government please, it may be Redeem'd from such Slavery. <hi>N.</hi> 22.</item>
+                  <item>Land by this Office can be both Till'd and Traded with at the same time. <hi>N.</hi> 23.</item>
+                  <item>That any thing may be made Money, tho' nothing so well as Gold and Silver, except Land, which is much better. <hi>N.</hi> 24.</item>
+                  <item>That 'tis the Interest of the Gentry to promote this Office. <hi>N.</hi> 25.</item>
+                  <item>That few or none in <hi>England</hi> can have any profitable Estates left, unless they encourage this Credit. <hi>N.</hi> 26.</item>
+                  <item>The same Reasons, which have been allow'd to Maintain the Probability, if not certainty of other Designs which have Succeeded, will more strongly en<g ref="char:EOLhyphen"/>force the Probability if not certainty, of the success of this Office. <hi>N.</hi> 27.</item>
+                  <item>That this Office is so far from Superseding the use of Gold and Silver Money, that it must necessarily increase it. <hi>N.</hi> 28.</item>
+                  <item>That bad Money, and bad Credit is better than none <hi>N.</hi> 29.</item>
+                  <item>That all Prudent Persons will accept this Land Credit. <hi>N.</hi> 30.</item>
+               </list>
+            </div>
+            <div type="conclusion">
+               <pb n="7" facs="tcp:202014:4"/>
+               <head>To Conclude. The Ʋndertaking is secure in Reallity; and Opinion is only wanting: So that a General Right Notion and Belief of it, secures the Success, and makes the Believers afe and happy: In this Case therefore it can be said without a Fallacy, <hi>Crede quod habes &amp; habes.</hi>
+               </head>
+               <p>THat the Office can do, is certain; that it will do when-ever understood is equally undoubted; that the Office of Credit is Capable of being re<g ref="char:EOLhyphen"/>duc'd to practise is most certain. Whether the World will readily entertain a good Opinion of it, can only be uncertain to those, whose Interest or Obsti<g ref="char:EOLhyphen"/>nacy will not be Informed.</p>
+               <p>That nothing under Heaven can be of equal Worldly Advantage to this Nation with this Office.</p>
+               <p>That there never was a general Proposal, offered to Land and Money'd-Men more Practicable, Profitable, and more safe against loss, and consequently more encouraging to both.</p>
+               <p>That there are stronger Probabilities, this Office will be entertain'd, than there was, for any other thing now in use, before it was put into practice.</p>
+               <p>Necessity, Example, Reason, Authority, Experience, Comparison, Pra<g ref="char:EOLhyphen"/>ctice, Safety, Benefit, <hi>&amp;c.</hi> do all concur in favour of it.</p>
+               <p>That sufficient Pledge, and certain Assurance that the Pledge is in safe Custody, is the very Essence and Being of Credit, so that Credit upon an Insufficient Pledge, or a doubt of its safe keeping, is properly no Credit, or at most a false one.</p>
+               <p>That 'tis not deny'd, that such false Credit hath Flourished for a time, but there can be no reason to doubt of the Flourishing of true Credit, when consider'd and known.</p>
+               <p>That the two best properties in a compleat measure of Trade, are to have it local and sit for Motion, which are the Essential Properties of this Land Credit.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>NOTICE is hereby given, from the Gentlemen of the Office of Land Credit, that they have taken, and are speedily going into the late dwelling <hi>House</hi> of the <hi>Marquess</hi> of <hi>Normanby</hi> in great <hi>Queen-Street,</hi> where they intend forthwith to proceed to perfect and open the said Underta<g ref="char:EOLhyphen"/>king: They having already Inrolled and Printed the Constitution of their said Office. Which Constitution, with this Paper, may be had at their said Office in Great <hi>Queen-Street,</hi> and at <hi>Number Six</hi> in the New Buildings in <hi>Lincolnes-Inn:</hi> As also at <hi>T. Sowle</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street.</hi> Where all other Papers Printed for the said Office may likewise be had. <hi>Agust.</hi> 20. 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
